@@ -1,0 +1,30 @@
+body {
+    font-family: sans-serif;
+}
+
+.btn {
+    margin: -3px; 
+}
+
+.btn.del {
+    font-size: 11.3px;
+}
+
+input {
+    margin: -3px;
+    text-align: center;
+}
+
+.button {
+    display: block;
+}
+
+.fields:first-child {
+    display: none;
+}
+
+.save {
+    margin-top: 20px;
+    width: min-content;
+    padding: 5px;
+}
